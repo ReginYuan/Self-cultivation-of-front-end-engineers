@@ -1,2 +1,3 @@
-# Self-cultivation-of-front-end-engineers
-前端工程师的自我修养
+# 全栈工程师的自我修养
+
+> 看完你就是全栈工程师啦
